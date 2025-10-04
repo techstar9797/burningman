@@ -1,5 +1,7 @@
 # 🔥 Burning Man Global Marketplace - AI-Powered Voice Commerce
 
+**🌐 Live Demo**: https://burnstream-ejl4fcjiy-techstar9797s-projects.vercel.app/
+
 AI-powered voice marketplace that overcomes language barriers and enables informed decisions in rapidly changing geopolitics and tariffs. Built for the Burning Man spirit of radical inclusion and global connection.
 
 ## 🏆 Key Features

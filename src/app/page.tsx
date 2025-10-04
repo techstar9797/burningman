@@ -127,7 +127,7 @@ export default function Home() {
 
       {/* Footer */}
       <div className="container mx-auto px-4 py-8 text-center text-gray-400">
-        <p>Built with ❤️ for Burning Heroes x EF Hackathon 2025</p>
+        <p>🌐 <a href="https://burnstream-ejl4fcjiy-techstar9797s-projects.vercel.app/" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-300 underline">Live Demo</a> | <a href="https://github.com/techstar9797/burningman" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-300 underline">GitHub Repository</a></p>
         <p className="text-sm mt-2">AI-powered global marketplace breaking language barriers in international trade</p>
         <p className="text-xs mt-1">Powered by VAPI, Apify, Higgsfield, Google Maps, and advanced geopolitical intelligence</p>
       </div>
